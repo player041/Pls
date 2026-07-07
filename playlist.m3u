@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Can vs Mar" tvg-logo="https://universe-files.dacast.com/551de445-22dd-bec6-9f45-86e35eec4fc4.png" group-title="Coupe du monde 2026",CM2026 (8è) Canada - Maroc
+https://view.dacast.com/2d21fe02-6ab5-43c3-b05c-7c84e7cdb732/adaptive.m3u8
+#EXTINF:-1 tvg-id="Maroc" tvg-logo="https://universe-files.dacast.com/606478d7-ff68-11fc-ba2d-502df7ff68aa.jpeg" group-title="Voyages",Le Maroc est à éviter
+https://view.dacast.com/40cbc81a-e379-43fd-ae0b-b50fbf8fff39/adaptive.m3u8
